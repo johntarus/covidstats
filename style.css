@@ -1,0 +1,23 @@
+body, html{
+    background-color: #b5c5c1 !important;
+}
+    
+    
+h1{
+    text-align: center;
+    margin-bottom: 25px!important;
+    margin-top: 50px!important;
+    background-color: #afbcc7;
+    border-radius: 10px;
+    color: white;
+}
+/*
+$grid-breakpoints: (
+    xs: 0,
+    sm: 576px,
+    md: 768px,
+    lg: 992px,
+    xl: 1200px,
+    xxl: 1400px
+  );
+  */
